@@ -1,0 +1,7 @@
+C:\Users\dnels\source\repos\AppVolumeCntrlr_v0.4\AppVolumeCntrlr_v0.4\bin\Debug\AppVolumeCntrlr_v0.4.exe.config
+C:\Users\dnels\source\repos\AppVolumeCntrlr_v0.4\AppVolumeCntrlr_v0.4\bin\Debug\AppVolumeCntrlr_v0.4.exe
+C:\Users\dnels\source\repos\AppVolumeCntrlr_v0.4\AppVolumeCntrlr_v0.4\bin\Debug\AppVolumeCntrlr_v0.4.pdb
+C:\Users\dnels\source\repos\AppVolumeCntrlr_v0.4\AppVolumeCntrlr_v0.4\obj\Debug\AppVolumeCntrlr_v0.4.csprojAssemblyReference.cache
+C:\Users\dnels\source\repos\AppVolumeCntrlr_v0.4\AppVolumeCntrlr_v0.4\obj\Debug\AppVolumeCntrlr_v0.4.csproj.CoreCompileInputs.cache
+C:\Users\dnels\source\repos\AppVolumeCntrlr_v0.4\AppVolumeCntrlr_v0.4\obj\Debug\AppVolumeCntrlr_v0.4.exe
+C:\Users\dnels\source\repos\AppVolumeCntrlr_v0.4\AppVolumeCntrlr_v0.4\obj\Debug\AppVolumeCntrlr_v0.4.pdb
